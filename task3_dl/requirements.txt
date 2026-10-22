@@ -1,0 +1,7 @@
+# 建议先使用 CPU 专用源安装 torch/torchvision：
+#   python -m pip install torch torchvision --index-url https://download.pytorch.org/whl/cpu
+torch>=2.6
+torchvision>=0.21
+matplotlib>=3.9
+numpy>=1.26
+pandas>=2.2

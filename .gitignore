@@ -1,0 +1,11 @@
+.venv/
+__pycache__/
+*.py[cod]
+.cache/
+Ultralytics/
+outputs/
+runs/
+data/MNIST/
+datasets/drone_bird/
+datasets/drone_subset/
+datasets/classification/
